@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
-export const Header = ({ image = "/public/img/popular_1.png", title='Celulares del momento' }) => {
+export const Header = ({ image = "/img/popular_1.png", title='Celulares del momento' }) => {
     return (
         <>
             <Menu />

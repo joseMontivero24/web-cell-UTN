@@ -14,7 +14,7 @@ export const Contact = () => {
         <h2 className="text-center degradado titulo-contacto">Contactame</h2>
         <div className="content-contacto contenedor">
           <div className="img-contact">
-            <img src="../../public/img/contact.svg" alt="contact" />
+            <img src="/img/contact.svg" alt="contact" />
           </div>
           <form action="">
             <div>
