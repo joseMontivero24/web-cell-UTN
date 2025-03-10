@@ -3,7 +3,7 @@ export const AboutUs = () => {
         <section className="nosotros" id="about">
             <div className="content-nosotros">
                 <div className="nosotros-img">
-                    <img src="../../public/img/precentacion1.jpg" alt="imagen" />
+                    <img src="/img/precentacion1.jpg" alt="imagen" />
                 </div>
                 <div className="text-nosotros contenedor">
                     <h2>Sobre Cell House</h2>
